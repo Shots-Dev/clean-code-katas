@@ -25,13 +25,7 @@ I’m also an outdoors person and a bit of an adrenaline junkie...I find it iron
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=java&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-### 🔧 Other Interests  
-- Building small projects  
-- Experimenting with new tools  
-- Debugging challenges  
-- Collaborating on real-world problems  
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
 ---
 
