@@ -1,6 +1,7 @@
 #Task 6
 
-words = ["the","quick","brown","fox","ate","my","chickens"]
+#words = ["the","quick","brown","fox","ate","my","chickens"]
+words = ["once","upon","a","time"]
 
 
 def longest(words):
@@ -11,6 +12,9 @@ def longest(words):
         if len(word) > long:
             long = len(word)
             longest_word = word
+        elif len(word) == long:
+            long = len(word)
+            longest_word += "\n" + word
     
     return longest_word
 
